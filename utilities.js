@@ -8,6 +8,7 @@ function max (arr, callback) {
     }
   } return callback(maxValue)
 }
+
 function min () {
   return 'not doing anything'
 }
