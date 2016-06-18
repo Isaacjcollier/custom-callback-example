@@ -12,7 +12,6 @@ function max (arr, callback) {
 function min () {
   return 'not doing anything'
 }
-
 module.exports = {
   max: max,
   min: min
